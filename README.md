@@ -12,10 +12,14 @@ TECHNOLOGIES USED:
 HTML
 CSS
 JavaScript
+OpenWeatherMap API
 
 
 HOW TO USE:
 1. Clone the repository:
+   
+   git clone https://github.com/MikhailSingh1590/Weather_App_Mikhail_Singh.git
+   cd weather-app
 
 2. Open index.html in your web browser:
 Simply double-click on the index.html file, or serve it using a local server for a better development experience.
